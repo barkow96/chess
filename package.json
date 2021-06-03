@@ -2,7 +2,7 @@
   "name": "chess",
   "version": "1.0.0",
   "description": "",
-  "main": "./docs/_main.js",
+  "main": "./docs/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "parcel ./docs/index.html",
