@@ -4,7 +4,7 @@ import Rook from "./Rook.js";
 import Queen from "./Queen.js";
 import Knight from "./Knight.js";
 import King from "./King.js";
-import performAction from "./_main.js";
+import performAction from "./main.js";
 
 //CLASS THAT REPRESENTS THE CHESSBOARD
 export default class ChessBoard {
